@@ -4,6 +4,10 @@ export const REMOTE_CONFIGS = [
     label: "universal",
     options: [
       {
+        label: "TY",
+        value: "https://cf.systerm.eu.org/nod.ini"
+      },
+      {
         label: "No-Urltest",
         value: "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/universal/no-urltest.ini"
       },
